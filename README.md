@@ -10,7 +10,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Friend links
 
-www.sci-hub.com. https://zh.fr1lib.org/ 
+www.sci-hub.com.  https://zh.fr1lib.org/ 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
 
