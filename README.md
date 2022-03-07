@@ -8,9 +8,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 #### Space Syntax
 
-Depthmap X/Sdna
-
-UCL/
+Depthmap X(UCL)/Sdna(.)
 
 #### Friend links
 
@@ -18,21 +16,33 @@ UCL/
 
 [Sci-hub](www.sci-hub.com)
 
+##### 电子书
+
 [The biggest library in the world](https://zh.fr1lib.org/)
+
+[Booksee.org](https://en.booksee.org/）
+
+[PDF BOOKS](https://www.pdfdrive.com/)
 
 ##### 学习
 
 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
-
 #### Arcgis
 
 ### Career Transition
 
-Unreal Engine
-Blender
+##### Unreal Engine
 
+##### Blender
+
+YOUTUBE
+
+[Blender Guru]
+
+BILIBILI
+
+[Blender王子]
 
 ### Support or Contact
 
