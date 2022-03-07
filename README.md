@@ -4,13 +4,11 @@ This is an open source information sharing web page.[editor on GitHub](https://g
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-usiting. It includes conventions for
-
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Friend links
 
-www.sci-hub.com.  https://zh.fr1lib.org/ 
+(www.sci-hub.com).  (https://zh.fr1lib.org/)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
 
