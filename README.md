@@ -18,21 +18,16 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 [Sci-hub](www.sci-hub.com)
 
-### 电子书
+### books
 
 | WEBSITE | Description |
 | --- | --- |
-| Z-Library | List all new or modified files |
-| Booksee | Show file differences that haven't been staged |
-| PDFdrive |  |
+| [Z-library](https://zh.fr1lib.org/) | List all new or modified files |
+| [Booksee.org](https://en.booksee.org/) | Show file differences that haven't been staged |
+| [PDF BOOKS](https://www.pdfdrive.com/) |  |
+| [The economist](https://github.com/nailperry-zd/The-Economist) | The economist magazine |
 
-[The biggest library in the world](https://zh.fr1lib.org/)
-
-[Booksee.org](https://en.booksee.org/)
-
-[PDF BOOKS](https://www.pdfdrive.com/)
-
-### 学习
+### 
 
 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
 
