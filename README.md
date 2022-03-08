@@ -1,5 +1,8 @@
 # Introduction
 
+目录 点击直达
+[1](https://github.com/MervisDevo/mervis.github.io/edit/main/README.md#career-transition)
+
 This is an open source information sharing web page.mainly about urban planning, and so on.
 
 Browse more on [My GitHub page](https://github.com/MervisDevo/mervis.github.io/edit/main/README.md)
@@ -20,6 +23,8 @@ Acrpy    书籍推荐《面向arcgis的python编程》
 | --- | --- |
 | [Cadmapper](https://cadmapper.com/) |  |
 
+## Qgis
+
 ### 分析图制作等
 
 [weather](https://www.meteoblue.com/en/weather/week/zhangjiaping_china_7517777)
@@ -29,6 +34,7 @@ Acrpy    书籍推荐《面向arcgis的python编程》
 | Site name | Description |
 | --- | --- |
 | [Sci-hub](www.sci-hub.com) | Remove the batteries |
+| [PLOS](https://plos.org/) | Breaking boundaries.Empowering researchers.Opening Science |
 
 ### Space Syntax(空间句法）
 
@@ -39,6 +45,8 @@ Acrpy    书籍推荐《面向arcgis的python编程》
 ## workflow
 
 [Workflow](https://super-workflow.com/)
+
+[](https://ambientcg.com/)
 
 # Friend links
 
@@ -53,7 +61,11 @@ Acrpy    书籍推荐《面向arcgis的python编程》
 
 ## other
 
-[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
+| Site Name | Description |
+| --- | --- |
+| [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue) | 关于大学 |
+| [知乎助手](https://github.com/YaoZeyuan/ZhihuHelp) | 将知乎内容转为 Epub 电子书 |
+| [知末网](https://www.znzmo.com/) | 模型下载 |
 
 # Career Transition
 
