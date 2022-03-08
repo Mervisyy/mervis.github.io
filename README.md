@@ -6,7 +6,7 @@ Browse more on [My GitHub page](https://github.com/MervisDevo/mervis.github.io/e
 
 ## Introduction
 
-If you also wanna create your own github page. [click here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+If you want to create your own github page. [click here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 [Workflow](https://super-workflow.com/)
 
@@ -52,7 +52,9 @@ acrpy
 
 ## Career Transition
 
-### Unreal Engine
+### Game/Animation production
+
+#### Unreal Engine
 
 | Youtube | Description |
 | --- | --- |
@@ -60,10 +62,9 @@ acrpy
 
 | Bilibili | Description |
 | --- | --- |
-| 1 | [谌嘉诚]() |
+| 1 | [谌嘉诚](https://space.bilibili.com/88934404?from=search&seid=17070208058755635080&spm_id_from=333.337.0.0) |
 
-### Blender
-
+#### Blender
 
 | Youtube | Description |
 | --- | --- |
@@ -71,8 +72,8 @@ acrpy
 
 | Bilibili | Description |
 | --- | --- |
-| 1 | [只剩一瓶辣椒酱] |
-| 2 | [Blender王子] |
+| 1 | [只剩一瓶辣椒酱](https://space.bilibili.com/35723238?spm_id_from=333.788.b_765f64657363.3) |
+| 2 | [Blender王子](https://space.bilibili.com/88934404?from=search&seid=17070208058755635080&spm_id_from=333.337.0.0) |
 
 ## Support or Contact
 
