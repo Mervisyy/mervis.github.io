@@ -8,7 +8,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 #### Space Syntax
 
-Depthmap X(UCL)/Sdna(.)
+[Depthmap X(UCL)](https://spacegroupucl.github.io/depthmapX/)
+
+[Sdna(CARDIFF)](https://sdna.cardiff.ac.uk/sdna/)
 
 #### Friend links
 
@@ -20,7 +22,7 @@ Depthmap X(UCL)/Sdna(.)
 
 [The biggest library in the world](https://zh.fr1lib.org/)
 
-[Booksee.org](https://en.booksee.org/）
+[Booksee.org](https://en.booksee.org/)
 
 [PDF BOOKS](https://www.pdfdrive.com/)
 
@@ -36,14 +38,14 @@ Depthmap X(UCL)/Sdna(.)
 
 ##### Blender
 
-YOUTUBE
+Youtube
 
 [Blender Guru]
 
-BILIBILI
+Bilibili
 
 [Blender王子]
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and 
