@@ -1,7 +1,7 @@
 # Introduction
 
 目录 点击直达
-[1](https://github.com/MervisDevo/mervis.github.io/edit/main/README.md#career-transition)
+[1](https://github.com/MervisDevo/mervis.github.io/blob/main/README.md#friend-links)
 
 This is an open source information sharing web page.mainly about urban planning, and so on.
 
