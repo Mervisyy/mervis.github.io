@@ -38,6 +38,7 @@ If you want to konw how to create your own github page. [click here](https://doc
 | --- | --- |
 | [Sci-hub](www.sci-hub.com) | Remove the batteries |
 | [PLOS](https://plos.org/) | Breaking boundaries.Empowering researchers.Opening Science |
+| [Researchgate](https://www.researchgate.net/) | |
 
 ### Space Syntax(空间句法）
 
@@ -46,6 +47,8 @@ If you want to konw how to create your own github page. [click here](https://doc
 | [Sdna(CARDIFF)](https://sdna.cardiff.ac.uk/sdna/) | [Depthmap X(UCL)](https://spacegroupucl.github.io/depthmapX/) |
 
 ## workflow
+
+cad su rhino gis
 
 [Workflow](https://super-workflow.com/)
 
@@ -76,21 +79,21 @@ If you want to konw how to create your own github page. [click here](https://doc
 
 ### Unreal Engine
 
-| 平台：Youtube(排名顺序随机) | Description |
+| 平台：Youtube(排名随机) | Description |
 | --- | --- |
 | 1 |  |
 
-| 平台：Bilibili(排名顺序随机) | Description |
+| 平台：Bilibili(排名随机) | Description |
 | --- | --- |
 | 1 | [谌嘉诚](https://space.bilibili.com/31898841?from=search&seid=7683564657252098117&spm_id_from=333.337.0.0) |
 
 ### Blender
 
-| 平台：Youtube(排名顺序随机) | Description |
+| 平台：Youtube(排名随机) | Description |
 | --- | --- |
 | 1 | [Blender Guru](https://www.youtube.com/c/BlenderGuruOfficial) |
 
-| 平台：Bilibili(排名顺序随机) | Description |
+| 平台：Bilibili(排名随机) | Description |
 | --- | --- |
 | 1 | [只剩一瓶辣椒酱](https://space.bilibili.com/35723238?spm_id_from=333.788.b_765f64657363.3) |
 | 2 | [Blender王子](https://space.bilibili.com/88934404?from=search&seid=17070208058755635080&spm_id_from=333.337.0.0) |
@@ -110,3 +113,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # 参考资料
 
 [[1]](https://www.zhihu.com/people/xin-cheng-xi/posts)https://www.zhihu.com/people/xin-cheng-xi/posts
+[[2]]()
+[[]]()
+[[]]()
