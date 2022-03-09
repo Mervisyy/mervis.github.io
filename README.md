@@ -1,7 +1,4 @@
-# Introduction
-
-目录 点击直达
-[1](https://github.com/MervisDevo/mervis.github.io/blob/main/README.md#friend-links)
+# Welcome to Mervis Page
 
 This is an open source information sharing web page.mainly about urban planning, and so on.
 
@@ -11,19 +8,25 @@ If you want to konw how to create your own github page. [click here](https://doc
 
 # Urban Planning Study
 
-## Arcgis
+城乡规划作为一门学科是典型的社会科学，且其实践主导的学科特点对地理学和社会学等学科的发展有着重要的承上启下的作用
+
+## Gis
+
+### Arcgis
 
 书籍推荐    ARCGIS地理信息系统空间分析实验教程
 
-Acrpy    书籍推荐《面向arcgis的python编程》
+#### Acrpy    
+
+书籍推荐《面向arcgis的python编程》
+
+### Qgis
 
 ## About The Competition
 
 | Site name | Description |
 | --- | --- |
-| [Cadmapper](https://cadmapper.com/) |  |
-
-## Qgis
+| [Cadmapper](https://cadmapper.com/) | Export cad map |
 
 ### 分析图制作等
 
@@ -103,3 +106,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 如有链接失效或无法打开请留言联系
 
 欢迎投稿
+
+# 参考资料
